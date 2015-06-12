@@ -1,0 +1,10 @@
+{
+    "require": {
+        "psecio/parse": "0.6",
+        "aura/session": "2.0.1",
+        "psecio/gatekeeper": "2.2",
+        "defuse/php-encryption": "v1.2.1",
+        "gregwar/captcha": "v1.1",
+        "kunststube/csrfp": "0.1",
+    }
+}
