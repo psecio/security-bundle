@@ -6,5 +6,6 @@
         "defuse/php-encryption": "v1.2.1",
         "gregwar/captcha": "v1.1",
         "kunststube/csrfp": "0.1",
+        "ircmaxell/randomlib": "v1.1.0"
     }
 }
