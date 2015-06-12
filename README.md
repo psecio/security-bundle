@@ -3,12 +3,12 @@ PHP Security Bundle
 
 These libaries are a recommended bundle of tools that can be used to protect your application from common attacks:
 
-- Psecio/Parse for source code static scanning
-- Aura/Session for session management
-- Psecio/Gatekeeper for user management, authorization and authentication
-- Gregwar/CAPTCHA for CAPTCHA generation
-- Kunsttube/CSRFP for CSRF form protection
-- Ircmaxell/Randomlib for random string and token generation
+- [Psecio/Parse](http://github.com/psecio/parse) for source code static scanning
+- [Aura/Session](https://github.com/auraphp/Aura.Session) for session management
+- [Psecio/Gatekeeper](http://github.com/psecio/gatekeeper) for user management, authorization and authentication
+- [Gregwar/CAPTCHA](https://github.com/Gregwar/CAPTCHA) for CAPTCHA generation
+- [Kunststube/CSRFP](https://github.com/deceze/Kunststube-CSRFP) for CSRF form protection
+- [Ircmaxell/Randomlib](https://github.com/ircmaxell/randomlib) for random string and token generation
 
 Not included but also recommended:
 
