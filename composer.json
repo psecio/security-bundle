@@ -1,6 +1,19 @@
 {
-    "require": {
-        "psecio/parse": "0.6",
+    "name":"psecio/security-bundle",
+    "type":"library",
+    "description":"A bundle of recommended PHP security libraries",
+    "keywords":["bundle", "security", "auth", "session", "captcha", "csrf", "random"],
+    "homepage":"https://github.com/psecio/security-bundle.git",
+    "license":"MIT",
+    "authors":[
+        {
+            "name":"Chris Cornutt",
+            "email":"ccornutt@phpdeveloper.org",
+            "homepage":"http://www.phpdeveloper.org/"
+        }
+    ],
+    "require":{
+		"psecio/parse": "0.6",
         "aura/session": "2.0.1",
         "psecio/gatekeeper": "2.2",
         "defuse/php-encryption": "v1.2.1",
